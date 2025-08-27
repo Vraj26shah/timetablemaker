@@ -1211,23 +1211,7 @@
             display: block;
         }
 
-        /* Footer */
-        footer {
-            width: 100%;
-            text-align: center;
-            padding: 25px 0;
-            color: #ddd;
-            font-size: 0.95rem;
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-            margin-top: 15px;
-        }
 
-        .creator {
-            font-weight: 600;
-            color: var(--accent-color);
-        }
 
         /* Selection counter */
         .selection-counter {
